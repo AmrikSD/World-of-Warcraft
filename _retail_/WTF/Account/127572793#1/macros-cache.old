@@ -1,0 +1,102 @@
+VER 3 0000000000000005 "Buffs" "136103"
+/show Arcane Power
+/use 13
+/use 14
+/use Arcane Power
+/castsequence [nochanneling] reset=1 Prismatic Barrier, Rune Of Power
+END
+VER 3 000000000000000A "Buffs" "136048"
+#show Arcane Power
+/use 13
+/use 14
+/use Arcane Power
+/use Presence of Mind
+END
+VER 3 0000000000000009 "cat form" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Cat Form
+/cast Dash
+END
+VER 3 000000000000001B "Invite" "INV_MISC_QUESTIONMARK"
+/invite onionboí
+END
+VER 3 000000000000000B "kneel" "236227"
+/kneel
+/p kneeled
+END
+VER 3 0000000000000013 "MEems" "INV_MISC_QUESTIONMARK"
+/script print(IsQuestFlaggedCompleted(46317))
+END
+VER 3 000000000000000E "Moonfire thing" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nochanneling, harm] [nochanneling, target=targettarget] Moonfire
+END
+VER 3 000000000000001F "prowl/roar" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Prowl
+/cast Stampeding Roar
+END
+VER 3 000000000000001D "quest" "134157"
+/script print(IsQuestFlaggedCompleted(39864))
+END
+VER 3 000000000000001C "quwst" "INV_MISC_QUESTIONMARK"
+/run for k, v in pairs({ QuestCompleted = 39698}) do print(format("%s: %s", k, IsQuestFlaggedCompleted(v) and "\124cff00ff00Yes\124r" or "\124cffff0000No\124r")) end
+END
+VER 3 0000000000000004 "Rotation" "135846"
+/cast Presence of Mind
+/cast Arcane Blast
+END
+VER 3 0000000000000020 "sdsd" "132092"
+/Target focus 
+/praise
+END
+VER 3 0000000000000011 "Solar Wrath" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nochanneling, harm] [nochanneling, target=targettarget] Wrath
+END
+VER 3 0000000000000021 "spam" "INV_MISC_QUESTIONMARK"
+/tar Anc
+/cast Moonfire
+END
+VER 3 0000000000000007 "SpellStl_cntrspl" "136051"
+/cast [mod:shift] Spellsteal
+/cast counterspell
+END
+VER 3 0000000000000010 "Sunfire" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nochanneling, harm] [nochanneling, target=targettarget] Sunfire
+END
+VER 3 0000000000000006 "Teleport" "135760"
+#showtooltip Blink
+/castsequence reset=15 !Blink, displacement
+END
+VER 3 000000000000000C "train" "INV_MISC_QUESTIONMARK"
+#showtooltip growl
+/use growl
+/train
+END
+VER 3 0000000000000022 "Trinket" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 0000000000000018 "TSM Profile Swit" "133945"
+/run local p1,p2="Default","sniper" if(TSM_API.GetActiveProfile() == p1) then p1=p2 end TSM_API.SetActiveProfile(p1) print("Switched to profile: "..p1)
+END
+VER 3 000000000000001A "TSMMacro" "Achievement_Faction_GoldenLotus"
+/click TSMCancelAuctionBtn
+/click TSMDestroyBtn
+/click TSMShoppingBuyoutBtn
+/click TSMSniperBtn
+/click TSMAuctioningBtn
+/click TSMCraftingBtn
+END
+VER 3 000000000000000D "Turtle" "136209"
+/break 2
+END
+VER 3 000000000000001E "view" "413591"
+/script SetView(4);SetView(4)
+END
+VER 3 0000000000000012 "ZygorAction1" "134400"
+END
+VER 3 0000000000000014 "ZygorAction2" "134400"
+END

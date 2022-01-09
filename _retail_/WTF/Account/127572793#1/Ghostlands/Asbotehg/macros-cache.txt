@@ -1,0 +1,23 @@
+VER 3 0100000000000001 "Polymorph" "SPELL_NATURE_POLYMORPH"
+/cast polymorph
+END
+VER 3 0100000000000015 "ZG4ArMiTrink" "INV_MISC_QUESTIONMARK"
+#showtooltip
+#show Mirror Image
+/cast Arcane Power
+/use 13
+/use 14
+/cast Mirror Image
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001A "ZG4ArSpam2" "INV_MISC_QUESTIONMARK"
+#show Arcane Power
+/use Mana Gem
+/cast Arcane Power
+/cast Arcane Blast
+END
+VER 3 0100000000000004 "ZG4PM1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Polymorph
+/emote polymorphs %t.
+END

@@ -1,0 +1,40 @@
+VER 3 0100000000000005 "dispel MAcro" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl,@player] [@mouseover,help,nodead] [help] [@targettarget,help] [] Purify
+END
+VER 3 0100000000000007 "dotMacro" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,harm,nodead][] Shadow Word: Pain
+END
+VER 3 0100000000000001 "Hover Shadow Men" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl,@player] [@mouseover,help,nodead] [help] [@targettarget,help] [] Shadow Mend
+END
+VER 3 0100000000000009 "Pain Supp MAcro" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl,@player] [@mouseover,help,nodead] [help] [@targettarget,help] [] Pain Suppression
+END
+VER 3 010000000000000A "PW: Radience Mac" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl,@player] [@mouseover,help,nodead] [help] [@targettarget,help] [] Power Word: Radiance
+END
+VER 3 0100000000000004 "PW: Shield MAcro" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover][] Power Word: Shield
+END
+VER 3 010000000000000B "PW: Solace Macro" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [harm][@targettarget]Power Word: Solace
+END
+VER 3 0100000000000008 "Schism" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [harm][@targettarget]Schism
+END
+VER 3 0100000000000002 "SmiteMAcro" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [harm][@targettarget]Smite
+END
+VER 3 0100000000000003 "Yank Mcro" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover][] Leap of Faith
+END

@@ -1,0 +1,82 @@
+VER 3 010000000000002F "afinity" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Covenant Ability
+END
+VER 3 010000000000002E "buffup" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Celestial Alignment
+/cast Berserking(Racial)
+END
+VER 3 010000000000001D "buffup" "571586"
+#showtooltip Incarnation: Chosen of Elune(Talent, Shapeshift)
+/cast Incarnation: Chosen of Elune(Talent, Shapeshift)
+/cast Berserking(Racial)
+/use 13
+/use 14
+END
+VER 3 0100000000000023 "buffup healer" "INV_MISC_QUESTIONMARK"
+#showtooltip Incarnation: Tree of Life(Talent, Shapeshift)
+/use 12
+/use 13
+/cast Incarnation: Tree of Life( Shapeshift)
+/cast Berserking(Racial)
+END
+VER 3 0100000000000029 "ceranion onhover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Cenarion Ward
+END
+VER 3 010000000000002C "disp onhover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Nature's Cure
+END
+VER 3 0100000000000024 "innv" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/target player
+/cast Innervate
+/targetlasttarget
+END
+VER 3 0100000000000025 "lifebloom onhove" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Lifebloom
+END
+VER 3 0100000000000026 "onhover ironbark" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Ironbark
+END
+VER 3 010000000000002D "pt" "571585"
+/pull 3
+END
+VER 3 010000000000001C "rebirth" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,dead][] Rebirth
+/cast Rebirth
+END
+VER 3 0100000000000027 "regrowth onhover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Regrowth
+END
+VER 3 0100000000000028 "rejuv onhover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Rejuvenation
+END
+VER 3 010000000000001B "soothew" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Soothe
+END
+VER 3 010000000000002A "swiftmend onhove" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Swiftmend
+END
+VER 3 0100000000000019 "taunt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Growl
+/train
+END
+VER 3 010000000000001A "wildcharge" "INV_MISC_QUESTIONMARK"
+#showtooltip Wild Charge
+/cast [@Mouseover][] Wild Charge
+END
+VER 3 010000000000002B "wildgrow onhover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Wild Growth
+END
