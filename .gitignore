@@ -1,0 +1,18 @@
+# Blacklist Everything
+*
+# Whitelist all directories
+!*/
+
+# Whitelist the gitignore (lol)
+!.gitignore
+# Whitelist the README too
+!README.md
+
+# Whitelist all files under WTF & Interface only
+!/_retail_/WTF/**
+!/_retail_/Interface/**
+
+# Blacklist specific types of files that we don't need to put on git. sounds,images,etc
+*.ogg
+*.blp
+*.tga
