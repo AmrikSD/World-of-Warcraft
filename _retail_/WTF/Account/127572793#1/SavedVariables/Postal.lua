@@ -1,11 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Asbotehelf - Draenor"] = "Asbotehelf - Draenor",
-		["Onionrog - Draenor"] = "Onionrog - Draenor",
-		["Onionmonk - Draenor"] = "Onionmonk - Draenor",
-		["Onionboi - Draenor"] = "Onionboi - Draenor",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -16,14 +10,20 @@ Postal3DB = {
 			},
 		},
 	},
+	["profileKeys"] = {
+		["Onionrog - Draenor"] = "Onionrog - Draenor",
+		["Onionboi - Draenor"] = "Onionboi - Draenor",
+		["Onionmonk - Draenor"] = "Onionmonk - Draenor",
+		["Asbotehelf - Draenor"] = "Asbotehelf - Draenor",
+	},
 	["profiles"] = {
-		["Asbotehelf - Draenor"] = {
-		},
 		["Onionrog - Draenor"] = {
+		},
+		["Onionboi - Draenor"] = {
 		},
 		["Onionmonk - Draenor"] = {
 		},
-		["Onionboi - Draenor"] = {
+		["Asbotehelf - Draenor"] = {
 		},
 	},
 }

@@ -1,14 +1,14 @@
 
 MythicDungeonToolsDB = {
 	["profileKeys"] = {
-		["Onionmonk - Draenor"] = "Onionmonk - Draenor",
 		["Onionrog - Draenor"] = "Onionrog - Draenor",
+		["Onionbank - Draenor"] = "Onionbank - Draenor",
 		["Asbotehg - Ghostlands"] = "Asbotehg - Ghostlands",
 		["Háoma - Ghostlands"] = "Háoma - Ghostlands",
 		["Heimerdinger - Ghostlands"] = "Heimerdinger - Ghostlands",
 		["Onionboi - Draenor"] = "Onionboi - Draenor",
 		["Asbotehelf - Draenor"] = "Asbotehelf - Draenor",
-		["Onionbank - Draenor"] = "Onionbank - Draenor",
+		["Onionmonk - Draenor"] = "Onionmonk - Draenor",
 	},
 	["global"] = {
 		["minimap"] = {
@@ -26,27 +26,27 @@ MythicDungeonToolsDB = {
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
-						["pulls"] = {
-							{
-								["color"] = "ff3eff",
-							}, -- [1]
+						["riftOffsets"] = {
+							[4] = {
+							},
 						},
 						["currentDungeonIdx"] = 29,
 						["teeming"] = false,
 						["selection"] = {
 							1, -- [1]
 						},
-						["riftOffsets"] = {
-							[4] = {
-							},
+						["pulls"] = {
+							{
+								["color"] = "ff3eff",
+							}, -- [1]
 						},
-					},
-					["objects"] = {
 					},
 					["mdi"] = {
 						["freeholdJoined"] = false,
-						["freehold"] = 1,
 						["beguiling"] = 1,
+						["freehold"] = 1,
+					},
+					["objects"] = {
 					},
 				}, -- [1]
 			},

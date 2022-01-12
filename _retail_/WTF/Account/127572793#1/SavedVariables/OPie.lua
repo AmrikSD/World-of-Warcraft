@@ -25,18 +25,18 @@ OneRing_Config = {
 				}, -- [1]
 				{
 					"mount", -- [1]
-					947, -- [2]
-					["sliceToken"] = "ABue5LvYACo",
-				}, -- [2]
-				{
-					"mount", -- [1]
 					407, -- [2]
 					["sliceToken"] = "ABue5LvYAC2",
-				}, -- [3]
+				}, -- [2]
 				{
 					"mount", -- [1]
 					1458, -- [2]
 					["sliceToken"] = "ABue5LvYACi",
+				}, -- [3]
+				{
+					"mount", -- [1]
+					1025, -- [2]
+					["sliceToken"] = "ABue5X/6Z/e",
 				}, -- [4]
 				["name"] = "mounts",
 				["save"] = true,
@@ -53,10 +53,10 @@ OneRing_Config = {
 					173859, -- [2]
 					["sliceToken"] = "ABue5ZP4W4r",
 				}, -- [2]
-				["name"] = "mana bitch",
+				["limit"] = "Onionboi-Draenor",
 				["save"] = true,
 				["hotkey"] = "BUTTON4",
-				["limit"] = "Onionboi-Draenor",
+				["name"] = "mana bitch",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
