@@ -1,16 +1,16 @@
-VER 3 000000000000000A "Buffs" "136048"
-#show Arcane Power
-/use 13
-/use 14
-/use Arcane Power
-/use Presence of Mind
-END
 VER 3 0000000000000005 "Buffs" "136103"
 /show Arcane Power
 /use 13
 /use 14
 /use Arcane Power
 /castsequence [nochanneling] reset=1 Prismatic Barrier, Rune Of Power
+END
+VER 3 000000000000000A "Buffs" "136048"
+#show Arcane Power
+/use 13
+/use 14
+/use Arcane Power
+/use Presence of Mind
 END
 VER 3 0000000000000009 "cat form" "INV_MISC_QUESTIONMARK"
 #showtooltip

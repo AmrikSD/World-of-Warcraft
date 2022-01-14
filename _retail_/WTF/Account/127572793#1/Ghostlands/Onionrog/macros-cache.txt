@@ -1,0 +1,14 @@
+VER 3 0100000000000002 "pickpoc_MEME" "INV_MISC_QUESTIONMARK"
+#showtooltip Pick Pocket
+/run xx = math.floor(math.random()*99);
+/run yy = math.floor(math.random()*99);
+/run SendChatMessage("picks your pocket for "..xx.." silver, "..yy.." copper.","EMOTE");
+END
+VER 3 0100000000000001 "Tricks" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=party1] Tricks of the trade
+END
+VER 3 0100000000000003 "Trinket" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END

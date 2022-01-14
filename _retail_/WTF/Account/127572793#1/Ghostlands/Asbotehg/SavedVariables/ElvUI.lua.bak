@@ -2,10 +2,10 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/tsm bankui", -- [1]
-		"/tsm destroy", -- [2]
+		"/tsm destroy", -- [1]
+		"/s tsm get", -- [2]
 		"/tsm get", -- [3]
-		"/s tsm get", -- [4]
+		"/tsm bankui", -- [4]
 		"/tsm disenchant", -- [5]
 		"/tsm", -- [6]
 		"/tsm shop", -- [7]
