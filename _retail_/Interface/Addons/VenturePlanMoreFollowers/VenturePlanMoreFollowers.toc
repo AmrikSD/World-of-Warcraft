@@ -1,0 +1,8 @@
+## Interface: 90105
+## Title: |cff0080ffVenturePlan|r MoreFollowers
+## Author: Siweia
+## Notes: Show 5 followers per row in VenturePlan.
+## Version: 3
+## RequiredDeps: VenturePlan
+
+Core.lua

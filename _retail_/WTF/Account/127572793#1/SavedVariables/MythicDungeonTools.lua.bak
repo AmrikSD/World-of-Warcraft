@@ -8,53 +8,21 @@ MythicDungeonToolsDB = {
 		["Yulia - Ghostlands"] = "Yulia - Ghostlands",
 		["Onionbank - Draenor"] = "Onionbank - Draenor",
 		["Háoma - Ghostlands"] = "Háoma - Ghostlands",
-		["Onionrog - Ghostlands"] = "Onionrog - Ghostlands",
+		["Onionrog - Draenor"] = "Onionrog - Draenor",
 		["Onionmonk - Draenor"] = "Onionmonk - Draenor",
 		["Onionboi - Draenor"] = "Onionboi - Draenor",
-		["Onionrog - Draenor"] = "Onionrog - Draenor",
+		["Onionrog - Ghostlands"] = "Onionrog - Ghostlands",
 	},
 	["global"] = {
+		["anchorTo"] = "LEFT",
 		["minimap"] = {
-			["minimapPos"] = 205.7406256071105,
-		},
-		["MDI"] = {
+			["minimapPos"] = 42.432400861363,
+			["lock"] = true,
 		},
 		["nonFullscreenScale"] = 1,
-		["maximized"] = false,
-		["presets"] = {
-			[29] = {
-				{
-					["difficulty"] = 10,
-					["week"] = 4,
-					["value"] = {
-						["currentPull"] = 1,
-						["currentSublevel"] = 1,
-						["pulls"] = {
-							{
-								["color"] = "ff3eff",
-							}, -- [1]
-						},
-						["currentDungeonIdx"] = 29,
-						["teeming"] = false,
-						["selection"] = {
-							1, -- [1]
-						},
-						["riftOffsets"] = {
-							[4] = {
-							},
-						},
-					},
-					["objects"] = {
-					},
-					["mdi"] = {
-						["freeholdJoined"] = false,
-						["freehold"] = 1,
-						["beguiling"] = 1,
-					},
-				}, -- [1]
-			},
+		["MDI"] = {
 		},
-		["version"] = 372,
+		["maximized"] = false,
 		["colorPaletteInfo"] = {
 			["customPaletteValues"] = {
 				{
@@ -119,5 +87,42 @@ MythicDungeonToolsDB = {
 				}, -- [12]
 			},
 		},
+		["presets"] = {
+			[29] = {
+				{
+					["difficulty"] = 10,
+					["week"] = 4,
+					["value"] = {
+						["currentPull"] = 1,
+						["currentSublevel"] = 1,
+						["riftOffsets"] = {
+							[4] = {
+							},
+						},
+						["currentDungeonIdx"] = 29,
+						["teeming"] = false,
+						["selection"] = {
+							1, -- [1]
+						},
+						["pulls"] = {
+							{
+								["color"] = "ff3eff",
+							}, -- [1]
+						},
+					},
+					["mdi"] = {
+						["freeholdJoined"] = false,
+						["beguiling"] = 1,
+						["freehold"] = 1,
+					},
+					["objects"] = {
+					},
+				}, -- [1]
+			},
+		},
+		["version"] = 372,
+		["xoffset"] = 44.00009536743164,
+		["anchorFrom"] = "LEFT",
+		["yoffset"] = 65.83316040039062,
 	},
 }

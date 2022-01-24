@@ -53,10 +53,10 @@ OneRing_Config = {
 					173859, -- [2]
 					["sliceToken"] = "ABue5ZP4W4r",
 				}, -- [2]
-				["name"] = "mana bitch",
+				["limit"] = "Onionboi-Ghostlands",
 				["save"] = true,
 				["hotkey"] = "BUTTON4",
-				["limit"] = "Onionboi-Draenor",
+				["name"] = "mana bitch",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,

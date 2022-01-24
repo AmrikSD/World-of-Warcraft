@@ -1,16 +1,16 @@
-VER 3 0000000000000005 "Buffs" "136103"
-/show Arcane Power
-/use 13
-/use 14
-/use Arcane Power
-/castsequence [nochanneling] reset=1 Prismatic Barrier, Rune Of Power
-END
 VER 3 000000000000000A "Buffs" "136048"
 #show Arcane Power
 /use 13
 /use 14
 /use Arcane Power
 /use Presence of Mind
+END
+VER 3 0000000000000005 "Buffs" "136103"
+/show Arcane Power
+/use 13
+/use 14
+/use Arcane Power
+/castsequence [nochanneling] reset=1 Prismatic Barrier, Rune Of Power
 END
 VER 3 0000000000000009 "cat form" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -30,6 +30,10 @@ END
 VER 3 000000000000000E "Moonfire thing" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [nochanneling, harm] [nochanneling, target=targettarget] Moonfire
+END
+VER 3 0000000000000023 "mount travel for" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [flyable][swimming]Travel Form;Mount Form
 END
 VER 3 000000000000001F "prowl/roar" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -99,4 +103,5 @@ END
 VER 3 0000000000000012 "ZygorAction1" "134400"
 END
 VER 3 0000000000000014 "ZygorAction2" "134400"
+/run local t = time() + 25 while time() < t do print(t) end
 END

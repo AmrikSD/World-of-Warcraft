@@ -1,11 +1,9 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "eu-Onionboi-ghostlands"
+RaiderIO_LastCharacter = "eu-Heimerdinger-ghostlands"
 RaiderIO_MissingCharacters = {
-	["eu-Sash-lightnings-blade"] = true,
-	["eu-Poesclap-dragonblight"] = true,
-	["eu-Onionboi-ghostlands"] = true,
+	["eu-Heimerdinger-ghostlands"] = true,
 }
 RaiderIO_MissingServers = {
 }

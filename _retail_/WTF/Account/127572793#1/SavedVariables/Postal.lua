@@ -1,17 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Asbotehelf - Draenor"] = "Asbotehelf - Draenor",
-		["Asbotehg - Ghostlands"] = "Asbotehg - Ghostlands",
-		["Heimerdinger - Ghostlands"] = "Heimerdinger - Ghostlands",
-		["Onionboi - Ghostlands"] = "Onionboi - Ghostlands",
-		["Yulia - Ghostlands"] = "Yulia - Ghostlands",
-		["Háoma - Ghostlands"] = "Háoma - Ghostlands",
-		["Onionrog - Draenor"] = "Onionrog - Draenor",
-		["Onionmonk - Draenor"] = "Onionmonk - Draenor",
-		["Onionboi - Draenor"] = "Onionboi - Draenor",
-		["Onionrog - Ghostlands"] = "Onionrog - Ghostlands",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -28,6 +16,18 @@ Postal3DB = {
 			},
 		},
 	},
+	["profileKeys"] = {
+		["Asbotehelf - Draenor"] = "Asbotehelf - Draenor",
+		["Asbotehg - Ghostlands"] = "Asbotehg - Ghostlands",
+		["Heimerdinger - Ghostlands"] = "Heimerdinger - Ghostlands",
+		["Onionboi - Ghostlands"] = "Onionboi - Ghostlands",
+		["Yulia - Ghostlands"] = "Yulia - Ghostlands",
+		["Háoma - Ghostlands"] = "Háoma - Ghostlands",
+		["Onionrog - Ghostlands"] = "Onionrog - Ghostlands",
+		["Onionmonk - Draenor"] = "Onionmonk - Draenor",
+		["Onionboi - Draenor"] = "Onionboi - Draenor",
+		["Onionrog - Draenor"] = "Onionrog - Draenor",
+	},
 	["profiles"] = {
 		["Asbotehelf - Draenor"] = {
 		},
@@ -41,13 +41,13 @@ Postal3DB = {
 		},
 		["Háoma - Ghostlands"] = {
 		},
-		["Onionrog - Draenor"] = {
+		["Onionrog - Ghostlands"] = {
 		},
 		["Onionmonk - Draenor"] = {
 		},
 		["Onionboi - Draenor"] = {
 		},
-		["Onionrog - Ghostlands"] = {
+		["Onionrog - Draenor"] = {
 		},
 	},
 }
