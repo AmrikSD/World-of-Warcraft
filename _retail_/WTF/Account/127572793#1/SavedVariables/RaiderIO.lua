@@ -1,25 +1,18 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "eu-Onionboi-ghostlands"
+RaiderIO_LastCharacter = "eu-Háoma-ghostlands"
 RaiderIO_MissingCharacters = {
-	["eu-Джанразэт-soulflayer"] = true,
-	["eu-Карисанна-howling-fjord"] = true,
-	["eu-Kurinomo-deathwing"] = true,
-	["eu-Hpynewjyea-kazzak"] = true,
-	["eu-Coluner-twisting-nether"] = true,
-	["eu-Мунст-soulflayer"] = true,
-	["eu-Boneforall-ragnaros"] = true,
-	["eu-Síralya-blackmoore"] = true,
-	["eu-Shoboli-kirin-tor"] = true,
-	["eu-Doihaveto-ghostlands"] = true,
-	["eu-Killaby-ghostlands"] = true,
-	["eu-Застегнутый-soulflayer"] = true,
-	["eu-Bølge-kazzak"] = true,
-	["eu-Bokon-uldaman"] = true,
-	["eu-Legalina-blackrock"] = true,
-	["eu-Suarnn-burning-legion"] = true,
-	["eu-Icalir-turalyon"] = true,
+	["eu-Krexgar-kazzak"] = true,
+	["eu-Rutz-burning-legion"] = true,
+	["eu-Dvdoov-kazzak"] = true,
+	["eu-Novadoselool-karazhan"] = true,
+	["eu-Imogenq-doomhammer"] = true,
+	["eu-Demonslayerc-doomhammer"] = true,
+	["eu-Elennve-defias-brotherhood"] = true,
+	["eu-Háoma-ghostlands"] = true,
+	["eu-Fangie-kazzak"] = true,
+	["eu-Muiller-ragnaros"] = true,
 }
 RaiderIO_MissingServers = {
 }

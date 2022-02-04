@@ -1,9 +1,17 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "eu-Heimerdinger-ghostlands"
+RaiderIO_LastCharacter = "eu-Háoma-ghostlands"
 RaiderIO_MissingCharacters = {
-	["eu-Heimerdinger-ghostlands"] = true,
+	["eu-Ehlana-the-maelstrom"] = true,
+	["eu-Someblast-dragonblight"] = true,
+	["eu-Stëllâ-twisting-nether"] = true,
+	["eu-Exstinguish-hellscream"] = true,
+	["eu-Tadayasu-twisting-nether"] = true,
+	["eu-Angrynun-the-maelstrom"] = true,
+	["eu-Háoma-ghostlands"] = true,
+	["eu-Mìkê-twisting-nether"] = true,
+	["eu-Mäthew-dragonblight"] = true,
 }
 RaiderIO_MissingServers = {
 }

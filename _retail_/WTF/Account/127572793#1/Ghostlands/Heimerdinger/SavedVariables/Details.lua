@@ -15,7 +15,7 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.007049,
 							["pets"] = {
 							},
-							["classe"] = "DEATHKNIGHT",
+							["aID"] = "1596-0DD59053",
 							["total_without_pet"] = 91.007049,
 							["dps_started"] = false,
 							["total"] = 91.007049,
@@ -33,8 +33,9 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["end_time"] = 1642983529,
-							["last_dps"] = 73.33364141595472,
-							["last_event"] = 1642983528,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
 							["nome"] = "Heimerdinger",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -55,25 +56,22 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 50842,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["b_dmg"] = 0,
+										["spellschool"] = 32,
+										["extra"] = {
+										},
 										["a_dmg"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["aID"] = "1596-0DD59053",
-							["damage_taken"] = 0.007049,
-							["custom"] = 0,
-							["tipo"] = 1,
+							["classe"] = "DEATHKNIGHT",
 							["avoidance"] = {
 								["overall"] = {
 									["DODGE"] = 0,
@@ -92,10 +90,12 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 0,
 								},
 							},
+							["custom"] = 0,
+							["last_event"] = 1642983528,
+							["damage_taken"] = 0.007049,
 							["start_time"] = 1642983528,
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 73.33364141595472,
 						}, -- [1]
 						{
 							["flag_original"] = 2600,
@@ -107,33 +107,33 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["damage_taken"] = 91.002159,
 							["aID"] = "49837",
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.002159,
-							["delay"] = 0,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-3102-1-9589-49837-00006DDE94",
+							["dps_started"] = false,
 							["total"] = 0.002159,
-							["on_hold"] = false,
-							["damage_taken"] = 91.002159,
+							["fight_component"] = true,
+							["friendlyfire"] = {
+							},
 							["nome"] = "Spiny Lizard",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
-							["end_time"] = 1642983529,
-							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["end_time"] = 1642983529,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1642983529,
-							["serial"] = "Creature-0-3102-1-9589-49837-00006DDE94",
-							["dps_started"] = false,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -179,26 +179,26 @@ _detalhes_database = {
 				["playing_solo"] = true,
 				["totals"] = {
 					91, -- [1]
-					0, -- [2]
+					-0.003186, -- [2]
 					{
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					91, -- [1]
@@ -207,18 +207,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
@@ -240,10 +240,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Heimerdinger"] = 91.007049,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -251,12 +248,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Heimerdinger"] = 91.007049,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 437275.59,
 				["combat_id"] = 1,
-				["overall_added"] = true,
+				["data_inicio"] = "00:18:48",
 				["frags"] = {
 					["Spiny Lizard"] = 1,
 				},
@@ -270,7 +270,7 @@ _detalhes_database = {
 				["start_time"] = 437274.349,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "00:18:48",
+				["overall_added"] = true,
 			}, -- [1]
 		},
 	},
@@ -337,9 +337,9 @@ _detalhes_database = {
 			["updatespeed"] = 1,
 			["showamount"] = false,
 			["useplayercolor"] = false,
-			["playSound"] = false,
-			["playSoundFile"] = "Details Threat Warning Volume 3",
 			["useclasscolors"] = false,
+			["playSoundFile"] = "Details Threat Warning Volume 3",
+			["playSound"] = false,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -366,15 +366,15 @@ _detalhes_database = {
 			["tank_block_size"] = 150,
 			["bar_height"] = 24,
 			["tank_block_texture"] = "Details Serenity",
+			["show_inc_bars"] = true,
+			["tank_block_powerbar_size_height"] = 10,
+			["tank_block_height"] = 40,
 			["tank_block_color"] = {
 				0.074509, -- [1]
 				0.035294, -- [2]
 				0.035294, -- [3]
 				0.832845, -- [4]
 			},
-			["tank_block_height"] = 40,
-			["tank_block_powerbar_size_height"] = 10,
-			["show_inc_bars"] = true,
 		},
 		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
 			["enabled"] = true,
@@ -384,11 +384,11 @@ _detalhes_database = {
 			["last_section_selected"] = "main",
 			["author"] = "Terciob",
 			["window_scale"] = 1,
-			["hide_on_combat"] = false,
-			["show_icon"] = 5,
-			["opened"] = 0,
 			["encounter_timers_dbm"] = {
 			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
 		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["use_square_mode"] = false,
@@ -409,37 +409,16 @@ _detalhes_database = {
 				["radius"] = 160,
 				["hide"] = false,
 			},
-			["scale"] = 1,
+			["arrow_anchor_y"] = 0,
 			["arrow_anchor_x"] = 0,
-			["row_height"] = 20,
+			["main_frame_locked"] = false,
 			["row_texture"] = "Details Serenity",
-			["font_color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["point"] = "CENTER",
-			["main_frame_strata"] = "LOW",
-			["square_amount"] = 5,
-			["enabled"] = false,
-			["arrow_size"] = 10,
-			["y"] = -4.57763671875e-05,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -447,19 +426,41 @@ _detalhes_database = {
 				["font_shadow"] = true,
 				["y"] = 6.103515625e-05,
 				["x"] = -6.103515625e-05,
-				["size"] = 32,
-				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
 			},
+			["author"] = "Terciob",
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["font_size"] = 10,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["y"] = -4.57763671875e-05,
+			["use_spark"] = true,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["font_size"] = 10,
-			["author"] = "Terciob",
-			["main_frame_locked"] = false,
-			["arrow_anchor_y"] = 0,
+			["point"] = "CENTER",
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["row_height"] = 20,
+			["scale"] = 1,
 		},
 	},
+	["last_instance_time"] = 0,
 	["mythic_dungeon_currentsaved"] = {
 		["dungeon_name"] = "",
 		["started"] = false,
@@ -471,53 +472,23 @@ _detalhes_database = {
 		["dungeon_zone_id"] = 0,
 		["previous_boss_killed_at"] = 0,
 	},
-	["last_day"] = "24",
-	["cached_roles"] = {
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
-	["last_instance_time"] = 0,
-	["local_instances_config"] = {
-		{
-			["modo"] = 2,
-			["sub_attribute"] = 1,
-			["sub_atributo_last"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				1, -- [5]
-			},
-			["is_open"] = true,
-			["isLocked"] = false,
-			["snap"] = {
-			},
-			["segment"] = 0,
-			["mode"] = 2,
-			["attribute"] = 1,
-			["pos"] = {
-				["normal"] = {
-					["y"] = -551.6664962768555,
-					["x"] = -430.0001220703125,
-					["w"] = 310,
-					["h"] = 157.9999847412109,
-				},
-				["solo"] = {
-					["y"] = 2,
-					["x"] = 1,
-					["w"] = 300,
-					["h"] = 200,
-				},
-			},
-		}, -- [1]
+	["last_day"] = "26",
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
-	["ignore_nicktag"] = false,
+	["force_font_outline"] = "",
 	["combat_id"] = 1,
 	["savedStyles"] = {
 	},
-	["nick_tag_cache"] = {
-		["nextreset"] = 1643993457,
-		["last_version"] = 14,
+	["character_data"] = {
+		["logons"] = 48,
 	},
-	["combat_counter"] = 83,
+	["combat_counter"] = 90,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -539,7 +510,23 @@ _detalhes_database = {
 					["end_time"] = 1642983530,
 					["pets"] = {
 					},
-					["damage_taken"] = 0.010817,
+					["on_hold"] = false,
+					["classe"] = "DEATHKNIGHT",
+					["aID"] = "1596-0DD59053",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 91.01081699999999,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["dps_started"] = false,
+					["total"] = 91.01081699999999,
+					["serial"] = "Player-1596-0DD59053",
+					["isTank"] = true,
+					["nome"] = "Heimerdinger",
+					["spec"] = 250,
+					["grupo"] = true,
+					["last_event"] = 0,
 					["spells"] = {
 						["_ActorTable"] = {
 							[50842] = {
@@ -559,41 +546,19 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 50842,
 								["r_dmg"] = 0,
-								["r_amt"] = 0,
-								["b_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 1,
-								["a_dmg"] = 0,
-								["extra"] = {
-								},
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["aID"] = "1596-0DD59053",
-					["raid_targets"] = {
-					},
-					["total_without_pet"] = 91.01081699999999,
-					["last_dps"] = 0,
-					["classe"] = "DEATHKNIGHT",
-					["dps_started"] = false,
-					["total"] = 91.01081699999999,
-					["delay"] = 0,
-					["start_time"] = 1642983526,
-					["nome"] = "Heimerdinger",
-					["spec"] = 250,
-					["grupo"] = true,
-					["friendlyfire_total"] = 0,
-					["tipo"] = 1,
-					["friendlyfire"] = {
-					},
-					["custom"] = 0,
-					["last_event"] = 0,
-					["on_hold"] = false,
-					["isTank"] = true,
-					["serial"] = "Player-1596-0DD59053",
 					["avoidance"] = {
 						["overall"] = {
 							["DODGE"] = 0,
@@ -612,6 +577,12 @@ _detalhes_database = {
 							["FULL_HIT_AMT"] = 0,
 						},
 					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 0.010817,
+					["start_time"] = 1642983526,
+					["delay"] = 0,
+					["last_dps"] = 0,
 				}, -- [1]
 				{
 					["flag_original"] = 2600,
@@ -623,33 +594,33 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["friendlyfire"] = {
-					},
 					["aID"] = "49837",
+					["on_hold"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.003816,
-					["delay"] = 0,
+					["serial"] = "Creature-0-3102-1-9589-49837-00006DDE94",
 					["fight_component"] = true,
 					["end_time"] = 1642983530,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 91.003816,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Spiny Lizard",
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 2,
 					},
-					["tipo"] = 1,
-					["dps_started"] = false,
-					["total"] = 0.003816,
-					["custom"] = 0,
 					["last_event"] = 0,
-					["on_hold"] = false,
+					["total"] = 0.003816,
+					["dps_started"] = false,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 91.003816,
 					["start_time"] = 1642983527,
-					["serial"] = "Creature-0-3102-1-9589-49837-00006DDE94",
-					["classe"] = "UNKNOW",
+					["delay"] = 0,
+					["last_dps"] = 0,
 				}, -- [2]
 			},
 		}, -- [1]
@@ -677,10 +648,10 @@ _detalhes_database = {
 		},
 		["raid_roster_indexed"] = {
 		},
-		["cleu_timeline"] = {
+		["spells_cast_timeline"] = {
 		},
 		["tempo_start"] = 1642983528,
-		["last_events_tables"] = {
+		["cleu_timeline"] = {
 		},
 		["alternate_power"] = {
 		},
@@ -692,21 +663,21 @@ _detalhes_database = {
 				0, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[6] = 0,
 				[3] = 0,
+				[6] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
 				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
 			}, -- [4]
-			["voidzone_damage"] = 0,
 			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
 		},
 		["player_last_events"] = {
 		},
@@ -717,6 +688,9 @@ _detalhes_database = {
 		},
 		["data_inicio"] = "00:18:48",
 		["end_time"] = 437275.59,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
 		["totals_grupo"] = {
 			91.007049, -- [1]
 			0, -- [2]
@@ -724,35 +698,24 @@ _detalhes_database = {
 				0, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[6] = 0,
 				[3] = 0,
+				[6] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
 				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
 			}, -- [4]
 		},
 		["overall_refreshed"] = true,
-		["PhaseData"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-			}, -- [1]
-			["damage"] = {
-			},
-			["heal_section"] = {
-			},
-			["heal"] = {
-			},
-			["damage_section"] = {
-			},
+		["frags"] = {
 		},
+		["hasSaved"] = true,
 		["segments_added"] = {
 			{
 				["elapsed"] = 1.241000000038184,
@@ -761,36 +724,75 @@ _detalhes_database = {
 				["clock"] = "00:18:48",
 			}, -- [1]
 		},
-		["hasSaved"] = true,
-		["spells_cast_timeline"] = {
-		},
 		["data_fim"] = "00:18:50",
 		["overall_enemy_name"] = "Spiny Lizard",
 		["CombatSkillCache"] = {
 		},
-		["frags"] = {
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage_section"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage"] = {
+			},
 		},
 		["start_time"] = 437274.349,
 		["TimeData"] = {
 			["Raid Damage Done"] = {
 			},
 		},
-		["cleu_events"] = {
-			["n"] = 1,
+		["last_events_tables"] = {
 		},
 	},
-	["character_data"] = {
-		["logons"] = 41,
+	["nick_tag_cache"] = {
+		["nextreset"] = 1643993457,
+		["last_version"] = 14,
 	},
-	["force_font_outline"] = "",
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+	["ignore_nicktag"] = false,
+	["local_instances_config"] = {
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = false,
+			["snap"] = {
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -551.6664962768555,
+					["x"] = -430.000244140625,
+					["w"] = 310.0000610351563,
+					["h"] = 157.9999847412109,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
 	},
 	["announce_cooldowns"] = {
-		["enabled"] = false,
 		["ignored_cooldowns"] = {
 		},
+		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -798,9 +800,7 @@ _detalhes_database = {
 		["last_difficulty"] = 15,
 		["last_raid"] = "",
 	},
-	["announce_damagerecord"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+	["cached_roles"] = {
 	},
 	["cached_specs"] = {
 		["Player-1596-0DD59053"] = 250,

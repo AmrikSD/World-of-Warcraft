@@ -2,52 +2,52 @@
 ElvCharacterDB = {
 	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
-		"/p pepega", -- [1]
-		"/p sry", -- [2]
-		"/p see: pepega", -- [3]
-		"/p ?", -- [4]
-		"/p o", -- [5]
-		"/p cease", -- [6]
-		"/p chill", -- [7]
-		"/p that's ok", -- [8]
-		"/p im just chilling now", -- [9]
-		"/p gl", -- [10]
-		"/p unlucky", -- [11]
-		"/p yw", -- [12]
-		"/kb", -- [13]
-		"/wa", -- [14]
-		"/elvui", -- [15]
-		"/i omega", -- [16]
-		"/i cast spells", -- [17]
-		"/i or be kicked", -- [18]
-		"/i ty", -- [19]
-		"/s |cff0070dd|Hitem:116666::::::::60:105:::::::::|h[Blacksteel Battleboar]|h|rA", -- [20]
+		"/rc", -- [1]
+		"/pull 12", -- [2]
+		"/train", -- [3]
+		"/p i literally am", -- [4]
+		"/p stfu", -- [5]
+		"/cw Elsajean-Stormscale ur ugly", -- [6]
+		"/cw Elsajean-Stormscale lol!", -- [7]
+		"/cw Elsajean-Stormscale who?", -- [8]
+		"/cw Elsajean-Stormscale no way to talk about grandad....", -- [9]
+		"/cw Elsajean-Stormscale lmfaoo", -- [10]
+		"/cw Elsajean-Stormscale xd", -- [11]
+		"/p |cff71d5ff|Hspell:170347:0|h[Core Hound]|h|r", -- [12]
+		"/p |cff71d5ff|Hspell:247448:0|h[Darkmoon Dirigible]|h|r", -- [13]
+		"/p hi", -- [14]
+		"/p |cff71d5ff|Hspell:253711:0|h[Pond Nettle]|h|r", -- [15]
+		"/p hello.....", -- [16]
+		"/p 123ty", -- [17]
+		"/p mannur", -- [18]
+		"/p nty", -- [19]
+		"/p !keys", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"gg", -- [1]
-			"Scótch-Draenor", -- [2]
+			"|cff71d5ff|Hspell:253711:0|h[Pond Nettle]|h|r", -- [1]
+			"Onionboi-Ghostlands", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Scótch-Draenor", -- [5]
+			"Onionboi-Ghostlands", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1345, -- [11]
-			"Player-1403-0A1DA202", -- [12]
+			32, -- [11]
+			"Player-1596-0F2755E9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642985718,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643418736,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [1]
 		{
-			"Omega how's your rest been", -- [1]
+			"|cff71d5ff|Hspell:102349:0|h[Swift Springstrider]|h|r", -- [1]
 			"Kurinomo-Deathwing", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -57,7 +57,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1359, -- [11]
+			33, -- [11]
 			"Player-1596-0F260066", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -65,77 +65,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcKurinomo-Deathwing|r",
-			[51] = 1642985736,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[51] = 1643418821,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [2]
 		{
-			"|cffa335ee|Hitem:186312::::::::60:70::4:4:7186:6652:1459:6646:1:28:2107:::::|h[Cuirass of the Lonely Citadel]|h|rrell", -- [1]
-			"Amidalá-Draenor", -- [2]
+			"hi guys", -- [1]
+			"Holodan-Sanguino", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amidalá-Draenor", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1363, -- [11]
-			"Player-1403-068F56CC", -- [12]
+			40, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Amidalá-Draenor|r",
-			[51] = 1642985740,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643421233,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [3]
 		{
-			"do you need that head?", -- [1]
-			"Queso-Draenor", -- [2]
+			"hi", -- [1]
+			"Kurinomo-Deathwing", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Queso-Draenor", -- [5]
+			"Kurinomo-Deathwing", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1364, -- [11]
-			"Player-1403-0A1E6DFC", -- [12]
+			41, -- [11]
+			"Player-1596-0F260066", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Queso-Draenor|r",
-			[51] = 1642985740,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cff006fdcKurinomo-Deathwing|r",
+			[51] = 1643421246,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [4]
 		{
-			"...", -- [1]
-			"Syréntia-TwistingNether", -- [2]
+			"come on tanks where are you", -- [1]
+			"Holodan-Sanguino", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Syréntia-TwistingNether", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1368, -- [11]
-			"Player-3674-09CE8A9F", -- [12]
+			42, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cSyréntia-TwistingNether|r",
-			[51] = 1642985751,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643421522,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [5]
 		{
-			":p ye lazy bone", -- [1]
+			"dead", -- [1]
 			"Kurinomo-Deathwing", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -145,7 +145,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1383, -- [11]
+			43, -- [11]
 			"Player-1596-0F260066", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -153,33 +153,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcKurinomo-Deathwing|r",
-			[51] = 1642985806,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[51] = 1643421531,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [6]
 		{
-			"ty", -- [1]
-			"Scótch-Draenor", -- [2]
+			"xD", -- [1]
+			"Holodan-Sanguino", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Scótch-Draenor", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1384, -- [11]
-			"Player-1403-0A1DA202", -- [12]
+			44, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642985831,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643421534,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [7]
 		{
-			"ye you a boomie boom at the beginning then stood there for half of the fight LUL", -- [1]
+			"yoyo", -- [1]
+			"Furin-Darksorrow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Furin-Darksorrow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			46, -- [11]
+			"Player-3657-0A89774B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Furin-Darksorrow|r",
+			[51] = 1643421689,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [8]
+		{
+			"heya", -- [1]
 			"Kurinomo-Deathwing", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -189,7 +211,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1387, -- [11]
+			47, -- [11]
 			"Player-1596-0F260066", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -197,55 +219,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcKurinomo-Deathwing|r",
-			[51] = 1642985892,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [8]
-		{
-			"ty mate", -- [1]
-			"Huntvreenkz-Aggra(Português)", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Huntvreenkz-Aggra(Português)", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1396, -- [11]
-			"Player-1303-0BC3E49E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Huntvreenkz-Aggra(Português)|r",
-			[51] = 1642985936,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[51] = 1643421692,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [9]
 		{
-			"omega", -- [1]
-			"Onionboi-Ghostlands", -- [2]
+			"hey", -- [1]
+			"Holodan-Sanguino", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Onionboi-Ghostlands", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1399, -- [11]
-			"Player-1596-0F2755E9", -- [12]
+			48, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Onionboi|r",
-			[51] = 1642985958,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643421705,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [10]
 		{
-			"cast spells", -- [1]
+			"hello.....", -- [1]
 			"Onionboi-Ghostlands", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -255,7 +255,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1400, -- [11]
+			49, -- [11]
 			"Player-1596-0F2755E9", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -263,693 +263,737 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Onionboi|r",
-			[51] = 1642985962,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[51] = 1643421720,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [11]
 		{
-			"or be kicked", -- [1]
-			"Onionboi-Ghostlands", -- [2]
+			"@stone", -- [1]
+			"Holodan-Sanguino", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Onionboi-Ghostlands", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1402, -- [11]
-			"Player-1596-0F2755E9", -- [12]
+			50, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Onionboi|r",
-			[51] = 1642985967,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643421765,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [12]
 		{
-			"ty", -- [1]
-			"Onionboi-Ghostlands", -- [2]
+			"coming", -- [1]
+			"Kurinomo-Deathwing", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Onionboi-Ghostlands", -- [5]
+			"Kurinomo-Deathwing", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1404, -- [11]
-			"Player-1596-0F2755E9", -- [12]
+			51, -- [11]
+			"Player-1596-0F260066", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Onionboi|r",
-			[51] = 1642985976,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cff006fdcKurinomo-Deathwing|r",
+			[51] = 1643421789,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [13]
 		{
-			"{rt1}Chains 1", -- [1]
+			"123ty", -- [1]
 			"Onionboi-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Onionboi-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1412, -- [11]
-			"Player-1596-0F2755E9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Onionboi|r",
-			[51] = 1642982410,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"{rt1}2", -- [1]
-			"Onionboi-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Onionboi-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1413, -- [11]
-			"Player-1596-0F2755E9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Onionboi|r",
-			[51] = 1642982411,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"{rt1}1", -- [1]
-			"Onionboi-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Onionboi-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1414, -- [11]
-			"Player-1596-0F2755E9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Onionboi|r",
-			[51] = 1642982412,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"Axe", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Scótch-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1415, -- [11]
-			"Player-1403-0A1DA202", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642982416,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"3", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Scótch-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1422, -- [11]
-			"Player-1403-0A1DA202", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642982419,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
-		{
-			"2", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Scótch-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1423, -- [11]
-			"Player-1403-0A1DA202", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642982420,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"1", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Scótch-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1424, -- [11]
-			"Player-1403-0A1DA202", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642982421,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"Axe (2) on Doihaveto", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1429, -- [11]
-			"Player-1596-0DD25654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986035,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"um monk?", -- [1]
-			"Scótch-Draenor", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Scótch-Draenor", -- [5]
+			"Onionboi-Ghostlands", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1431, -- [11]
-			"Player-1403-0A1DA202", -- [12]
+			52, -- [11]
+			"Player-1596-0F2755E9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986036,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643421789,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [14]
+		{
+			"we don't have vent so hopefully we can boom :D", -- [1]
+			"Kurinomo-Deathwing", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kurinomo-Deathwing", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"Player-1596-0F260066", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcKurinomo-Deathwing|r",
+			[51] = 1643421824,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [15]
+		{
+			"since no vent just follow up to mistdancer", -- [1]
+			"Furin-Darksorrow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Furin-Darksorrow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			54, -- [11]
+			"Player-3657-0A89774B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Furin-Darksorrow|r",
+			[51] = 1643422008,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [16]
+		{
+			"kill explosives", -- [1]
+			"Furin-Darksorrow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Furin-Darksorrow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			55, -- [11]
+			"Player-3657-0A89774B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Furin-Darksorrow|r",
+			[51] = 1643422012,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [17]
+		{
+			"yep", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			56, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422030,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [18]
+		{
+			"bl", -- [1]
+			"Furin-Darksorrow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Furin-Darksorrow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			60, -- [11]
+			"Player-3657-0A89774B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Furin-Darksorrow|r",
+			[51] = 1643422141,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [19]
+		{
+			"youa re crazy", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			63, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422198,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [20]
+		{
+			"I interrupted Garrapata glotona's |cff71d5ff|Hspell:334653:0|h[Atiborrarse]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			65, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422254,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [21]
+		{
+			"I interrupted Garrapata glotona's |cff71d5ff|Hspell:334653:0|h[Atiborrarse]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			76, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422352,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [22]
 		{
-			"3", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
+			"Juggernaut Rush on Onionboi", -- [1]
+			"Onionboi-Ghostlands", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
+			"Onionboi-Ghostlands", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1433, -- [11]
-			"Player-1596-0DD25654", -- [12]
+			82, -- [11]
+			"Player-1596-0F2755E9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986038,
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643422440,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
-			"sorry", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1434, -- [11]
-			"Player-1596-0DD25654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986046,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [24]
-		{
-			"{rt2}Chains 2", -- [1]
-			"Drcharacter-Turalyon", -- [2]
+			"3", -- [1]
+			"Onionboi-Ghostlands", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Drcharacter-Turalyon", -- [5]
+			"Onionboi-Ghostlands", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1436, -- [11]
-			"Player-1402-0A1D855D", -- [12]
+			83, -- [11]
+			"Player-1596-0F2755E9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Drcharacter-Turalyon|r",
-			[51] = 1642986050,
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643422441,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [24]
+		{
+			"2", -- [1]
+			"Onionboi-Ghostlands", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Onionboi-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			84, -- [11]
+			"Player-1596-0F2755E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643422442,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [25]
 		{
-			"{rt2}2", -- [1]
-			"Drcharacter-Turalyon", -- [2]
+			"1", -- [1]
+			"Onionboi-Ghostlands", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Drcharacter-Turalyon", -- [5]
+			"Onionboi-Ghostlands", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1438, -- [11]
-			"Player-1402-0A1D855D", -- [12]
+			85, -- [11]
+			"Player-1596-0F2755E9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Drcharacter-Turalyon|r",
-			[51] = 1642986051,
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643422443,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [26]
 		{
-			"{rt2}1", -- [1]
-			"Drcharacter-Turalyon", -- [2]
+			"¡Carga de gigante en Holodan!", -- [1]
+			"Holodan-Sanguino", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Drcharacter-Turalyon", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1439, -- [11]
-			"Player-1402-0A1D855D", -- [12]
+			87, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Drcharacter-Turalyon|r",
-			[51] = 1642986052,
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422481,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [27]
 		{
-			"Axe (3) on Doihaveto", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
+			"Carga de gigante en Holodan", -- [1]
+			"Holodan-Sanguino", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1440, -- [11]
-			"Player-1596-0DD25654", -- [12]
+			88, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986055,
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422481,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"omg ", -- [1]
-			"Scótch-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scótch-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1448, -- [11]
-			"Player-1403-0A1DA202", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986074,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [29]
-		{
 			"3", -- [1]
-			"Scótch-Draenor", -- [2]
+			"Holodan-Sanguino", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Scótch-Draenor", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1450, -- [11]
-			"Player-1403-0A1DA202", -- [12]
+			90, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986077,
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422482,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [29]
+		{
+			"2", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			92, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422483,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [30]
 		{
-			"2", -- [1]
-			"Scótch-Draenor", -- [2]
+			"1", -- [1]
+			"Holodan-Sanguino", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Scótch-Draenor", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1451, -- [11]
-			"Player-1403-0A1DA202", -- [12]
+			99, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986078,
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422523,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [31]
 		{
-			"{rt1}Chains 1", -- [1]
-			"Isiri-Pozzodell'Eternità", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Opresora perversa's |cff71d5ff|Hspell:326836:0|h[Maldición de supresión]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Isiri-Pozzodell'Eternità", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1452, -- [11]
-			"Player-1309-0C20373D", -- [12]
+			107, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaIsiri-Pozzodell'Eternità|r",
-			[51] = 1642986090,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422561,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [32]
 		{
-			"{rt2}Chains 2", -- [1]
-			"Dontask-BurningLegion", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Opresora perversa's |cff71d5ff|Hspell:321038:0|h[Torturar alma]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Dontask-BurningLegion", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1453, -- [11]
-			"Player-3713-0AB99317", -- [12]
+			109, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaDontask-BurningLegion|r",
-			[51] = 1642986090,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422580,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			"{rt1}2", -- [1]
-			"Isiri-Pozzodell'Eternità", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Opresora perversa's |cff71d5ff|Hspell:321038:0|h[Torturar alma]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Isiri-Pozzodell'Eternità", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1456, -- [11]
-			"Player-1309-0C20373D", -- [12]
+			110, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaIsiri-Pozzodell'Eternità|r",
-			[51] = 1642986091,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422595,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [34]
 		{
-			"{rt2}2", -- [1]
-			"Dontask-BurningLegion", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Centinela de la cámara's |cff71d5ff|Hspell:322433:0|h[Piel de piedra]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Dontask-BurningLegion", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1457, -- [11]
-			"Player-3713-0AB99317", -- [12]
+			113, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaDontask-BurningLegion|r",
-			[51] = 1642986091,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422618,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [35]
 		{
-			"{rt1}1", -- [1]
-			"Isiri-Pozzodell'Eternità", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Opresora perversa's |cff71d5ff|Hspell:321038:0|h[Torturar alma]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Isiri-Pozzodell'Eternità", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1458, -- [11]
-			"Player-1309-0C20373D", -- [12]
+			122, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaIsiri-Pozzodell'Eternità|r",
-			[51] = 1642986092,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422693,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [36]
 		{
-			"{rt2}1", -- [1]
-			"Dontask-BurningLegion", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Opresora perversa's |cff71d5ff|Hspell:321038:0|h[Torturar alma]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Dontask-BurningLegion", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1459, -- [11]
-			"Player-3713-0AB99317", -- [12]
+			128, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaDontask-BurningLegion|r",
-			[51] = 1642986092,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422753,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [37]
 		{
-			"Axe (5) on Doihaveto", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Opresora perversa's |cff71d5ff|Hspell:321038:0|h[Torturar alma]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1461, -- [11]
-			"Player-1596-0DD25654", -- [12]
+			132, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986094,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422812,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [38]
 		{
-			"if you got chains make sure everyone else through beefore you do", -- [1]
-			"Scótch-Draenor", -- [2]
+			"bl next pull", -- [1]
+			"Furin-Darksorrow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Scótch", -- [5]
+			"Furin-Darksorrow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1462, -- [11]
-			"Player-1403-0A1DA202", -- [12]
+			133, -- [11]
+			"Player-3657-0A89774B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986095,
-			[50] = "CHAT_MSG_RAID_WARNING",
+			[52] = "|cfffe7b09Furin-Darksorrow|r",
+			[51] = 1643422813,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [39]
 		{
-			"3", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1464, -- [11]
-			"Player-1596-0DD25654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986096,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
-		{
-			"chains dont knock on lrf", -- [1]
-			"Greenfire-ShatteredHand", -- [2]
+			"I interrupted Incinerador Arkolath's |cff71d5ff|Hspell:358967:0|h[Inferno]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Greenfire-ShatteredHand", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1469, -- [11]
-			"Player-633-07DB40EC", -- [12]
+			136, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edGreenfire-ShatteredHand|r",
-			[51] = 1642986114,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422873,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [40]
+		{
+			"bl", -- [1]
+			"Furin-Darksorrow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Furin-Darksorrow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			137, -- [11]
+			"Player-3657-0A89774B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Furin-Darksorrow|r",
+			[51] = 1643422876,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [41]
 		{
-			"Chains ({rt2}) on Greenfire", -- [1]
-			"Greenfire-ShatteredHand", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Incinerador Arkolath's |cff71d5ff|Hspell:358967:0|h[Inferno]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Greenfire-ShatteredHand", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1479, -- [11]
-			"Player-633-07DB40EC", -- [12]
+			143, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edGreenfire-ShatteredHand|r",
-			[51] = 1642986183,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422895,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [42]
 		{
-			"{rt1}Chains 1", -- [1]
+			"I interrupted Pluma imbuida's |cff71d5ff|Hspell:326952:0|h[Sortilegio ígneo]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			153, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643422936,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [43]
+		{
+			"mannur", -- [1]
+			"Onionboi-Ghostlands", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Onionboi-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			170, -- [11]
+			"Player-1596-0F2755E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643423166,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [44]
+		{
+			"Castigate on Onionboi", -- [1]
 			"Onionboi-Ghostlands", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -959,7 +1003,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1480, -- [11]
+			174, -- [11]
 			"Player-1596-0F2755E9", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -967,1157 +1011,409 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Onionboi|r",
-			[51] = 1642986183,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
-		{
-			"{rt2} 2", -- [1]
-			"Greenfire-ShatteredHand", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Greenfire-ShatteredHand", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1481, -- [11]
-			"Player-633-07DB40EC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edGreenfire-ShatteredHand|r",
-			[51] = 1642986184,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"{rt2} 1", -- [1]
-			"Greenfire-ShatteredHand", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Greenfire-ShatteredHand", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1482, -- [11]
-			"Player-633-07DB40EC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edGreenfire-ShatteredHand|r",
-			[51] = 1642986185,
+			[51] = 1643423253,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [45]
 		{
-			"{rt1}1", -- [1]
-			"Onionboi-Ghostlands", -- [2]
+			"Reprender en Holodan", -- [1]
+			"Holodan-Sanguino", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Onionboi-Ghostlands", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1483, -- [11]
-			"Player-1596-0F2755E9", -- [12]
+			178, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Onionboi|r",
-			[51] = 1642986185,
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643423274,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"Hammer (1) on Doihaveto", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
+			"¡Reprender en Holodan!", -- [1]
+			"Holodan-Sanguino", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1485, -- [11]
-			"Player-1596-0DD25654", -- [12]
+			179, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986186,
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643423274,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"3", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
+			"Castigate on Kurinomo", -- [1]
+			"Kurinomo-Deathwing", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
+			"Kurinomo-Deathwing", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1487, -- [11]
-			"Player-1596-0DD25654", -- [12]
+			182, -- [11]
+			"Player-1596-0F260066", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986189,
+			[52] = "|cff006fdcKurinomo-Deathwing|r",
+			[51] = 1643423294,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [48]
 		{
-			"3", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Opresora perversa's |cff71d5ff|Hspell:321038:0|h[Torturar alma]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Scótch-Draenor", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1493, -- [11]
-			"Player-1403-0A1DA202", -- [12]
+			192, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986213,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643423346,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [49]
 		{
-			"{rt1}Chains 1", -- [1]
-			"Dontask-BurningLegion", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Opresora perversa's |cff71d5ff|Hspell:326836:0|h[Maldición de supresión]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Dontask-BurningLegion", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1496, -- [11]
-			"Player-3713-0AB99317", -- [12]
+			193, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaDontask-BurningLegion|r",
-			[51] = 1642986232,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643423365,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [50]
 		{
-			"{rt1}2", -- [1]
-			"Dontask-BurningLegion", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Opresora perversa's |cff71d5ff|Hspell:321038:0|h[Torturar alma]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Dontask-BurningLegion", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1497, -- [11]
-			"Player-3713-0AB99317", -- [12]
+			203, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaDontask-BurningLegion|r",
-			[51] = 1642986233,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643423415,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [51]
 		{
-			"{rt1}1", -- [1]
-			"Dontask-BurningLegion", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Opresora perversa's |cff71d5ff|Hspell:321038:0|h[Torturar alma]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Dontask-BurningLegion", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1498, -- [11]
-			"Player-3713-0AB99317", -- [12]
+			204, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaDontask-BurningLegion|r",
-			[51] = 1642986234,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643423430,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [52]
 		{
-			"Hammer (3) on Doihaveto", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Opresora perversa's |cff71d5ff|Hspell:321038:0|h[Torturar alma]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1499, -- [11]
-			"Player-1596-0DD25654", -- [12]
+			221, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986234,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643423596,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [53]
 		{
-			"3", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
+			"skip", -- [1]
+			"Furin-Darksorrow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
+			"Furin-Darksorrow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1502, -- [11]
-			"Player-1596-0DD25654", -- [12]
+			222, -- [11]
+			"Player-3657-0A89774B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986237,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Furin-Darksorrow|r",
+			[51] = 1643423611,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [54]
 		{
-			"2", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
+			"die skull if no pot", -- [1]
+			"Furin-Darksorrow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
+			"Furin-Darksorrow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1503, -- [11]
-			"Player-1596-0DD25654", -- [12]
+			223, -- [11]
+			"Player-3657-0A89774B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986238,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Furin-Darksorrow|r",
+			[51] = 1643423633,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [55]
 		{
-			"Hammer", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
+			"Guards! Slay them all!", -- [1]
+			"", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Scótch-Draenor", -- [5]
+			"General Kaal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1508, -- [11]
-			"Player-1403-0A1DA202", -- [12]
+			227, -- [11]
+			false, -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986259,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "",
+			[51] = 1643423656,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [56]
 		{
-			"3", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
+			"Guards! Slay them all!", -- [1]
+			"", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Scótch-Draenor", -- [5]
+			"General Kaal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1511, -- [11]
-			"Player-1403-0A1DA202", -- [12]
+			228, -- [11]
+			false, -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986262,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "",
+			[51] = 1643423656,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [57]
 		{
-			"{rt1}Chains 1", -- [1]
-			"Kweensham-Draenor", -- [2]
-			"Orcish", -- [3]
+			"That prisoner belongs to the Master. You will not take it!", -- [1]
+			"", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kweensham-Draenor", -- [5]
+			"General Kaal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1512, -- [11]
-			"Player-1403-0A1CC92F", -- [12]
+			234, -- [11]
+			false, -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcKweensham-Draenor|r",
-			[51] = 1642986280,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "",
+			[51] = 1643423715,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [58]
 		{
-			"{rt2}Chains 2", -- [1]
-			"Isiri-Pozzodell'Eternità", -- [2]
-			"Orcish", -- [3]
+			"That prisoner belongs to the Master. You will not take it!", -- [1]
+			"", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Isiri-Pozzodell'Eternità", -- [5]
+			"General Kaal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1513, -- [11]
-			"Player-1309-0C20373D", -- [12]
+			235, -- [11]
+			false, -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaIsiri-Pozzodell'Eternità|r",
-			[51] = 1642986280,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "",
+			[51] = 1643423715,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [59]
 		{
-			"{rt1}2", -- [1]
-			"Kweensham-Draenor", -- [2]
-			"Orcish", -- [3]
+			"I interrupted Acólita oscura's |cff71d5ff|Hspell:326712:0|h[Descarga oscura]|h|r!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kweensham-Draenor", -- [5]
+			"Holodan-Sanguino", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1516, -- [11]
-			"Player-1403-0A1CC92F", -- [12]
+			240, -- [11]
+			"Player-1379-0847D0B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcKweensham-Draenor|r",
-			[51] = 1642986281,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643423743,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [60]
 		{
-			"{rt1}1", -- [1]
-			"Kweensham-Draenor", -- [2]
-			"Orcish", -- [3]
+			"These halls will be your tomb!", -- [1]
+			"", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kweensham-Draenor", -- [5]
+			"General Kaal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1517, -- [11]
-			"Player-1403-0A1CC92F", -- [12]
+			246, -- [11]
+			false, -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcKweensham-Draenor|r",
-			[51] = 1642986282,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "",
+			[51] = 1643423790,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [61]
 		{
-			"{rt2}1", -- [1]
-			"Isiri-Pozzodell'Eternità", -- [2]
-			"Orcish", -- [3]
+			"These halls will be your tomb!", -- [1]
+			"", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Isiri-Pozzodell'Eternità", -- [5]
+			"General Kaal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1518, -- [11]
-			"Player-1309-0C20373D", -- [12]
+			247, -- [11]
+			false, -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaIsiri-Pozzodell'Eternità|r",
-			[51] = 1642986282,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "",
+			[51] = 1643423790,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [62]
 		{
-			"Hammer (5) on Doihaveto", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
+			"with boss", -- [1]
+			"Furin-Darksorrow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
+			"Furin-Darksorrow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1519, -- [11]
-			"Player-1596-0DD25654", -- [12]
+			251, -- [11]
+			"Player-3657-0A89774B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986283,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Furin-Darksorrow|r",
+			[51] = 1643423891,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [63]
 		{
-			"3", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1522, -- [11]
-			"Player-1596-0DD25654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986286,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
-		{
-			"Chains ({rt1}) on Greenfire", -- [1]
-			"Greenfire-ShatteredHand", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Greenfire-ShatteredHand", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1534, -- [11]
-			"Player-633-07DB40EC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edGreenfire-ShatteredHand|r",
-			[51] = 1642986348,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
-		{
-			"{rt1} 2", -- [1]
-			"Greenfire-ShatteredHand", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Greenfire-ShatteredHand", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1537, -- [11]
-			"Player-633-07DB40EC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edGreenfire-ShatteredHand|r",
-			[51] = 1642986349,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
-		{
-			"{rt1} 1", -- [1]
-			"Greenfire-ShatteredHand", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Greenfire-ShatteredHand", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1538, -- [11]
-			"Player-633-07DB40EC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edGreenfire-ShatteredHand|r",
-			[51] = 1642986350,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
-		{
-			"Scythe", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Scótch-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1539, -- [11]
-			"Player-1403-0A1DA202", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986351,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
-		{
-			"3", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Scótch-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1542, -- [11]
-			"Player-1403-0A1DA202", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986354,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
-		{
-			"Scythe (2) on Doihaveto", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1548, -- [11]
-			"Player-1596-0DD25654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986375,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
-		{
-			"3", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1550, -- [11]
-			"Player-1596-0DD25654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986378,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
-		{
-			"2", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1551, -- [11]
-			"Player-1596-0DD25654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986379,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
-		{
-			"1", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1552, -- [11]
-			"Player-1596-0DD25654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986380,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
-		{
-			"{rt2}Chains 2", -- [1]
-			"Kweensham-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kweensham-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1553, -- [11]
-			"Player-1403-0A1CC92F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcKweensham-Draenor|r",
-			[51] = 1642986397,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
-		{
-			"{rt1}Chains 1", -- [1]
-			"Dontask-BurningLegion", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dontask-BurningLegion", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1556, -- [11]
-			"Player-3713-0AB99317", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaDontask-BurningLegion|r",
-			[51] = 1642986397,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
-		{
-			"{rt2}2", -- [1]
-			"Kweensham-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kweensham-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1557, -- [11]
-			"Player-1403-0A1CC92F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcKweensham-Draenor|r",
-			[51] = 1642986398,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
-		{
-			"{rt1}2", -- [1]
-			"Dontask-BurningLegion", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dontask-BurningLegion", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1558, -- [11]
-			"Player-3713-0AB99317", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaDontask-BurningLegion|r",
-			[51] = 1642986398,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
-		{
-			"{rt2}1", -- [1]
-			"Kweensham-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kweensham-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1559, -- [11]
-			"Player-1403-0A1CC92F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcKweensham-Draenor|r",
-			[51] = 1642986399,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
-		{
-			"{rt1}1", -- [1]
-			"Dontask-BurningLegion", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dontask-BurningLegion", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1560, -- [11]
-			"Player-3713-0AB99317", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaDontask-BurningLegion|r",
-			[51] = 1642986399,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
-		{
-			"Scythe", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Scótch-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1561, -- [11]
-			"Player-1403-0A1DA202", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986400,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
-		{
-			"3", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Scótch-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1564, -- [11]
-			"Player-1403-0A1DA202", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986403,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
-		{
-			"Scythe (4) on Doihaveto", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1568, -- [11]
-			"Player-1596-0DD25654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986424,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
-		{
-			"3", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1571, -- [11]
-			"Player-1596-0DD25654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986427,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
-		{
-			"2", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1572, -- [11]
-			"Player-1596-0DD25654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986428,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
-		{
-			"{rt2}Chains 2", -- [1]
-			"Isiri-Pozzodell'Eternità", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Isiri-Pozzodell'Eternità", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1573, -- [11]
-			"Player-1309-0C20373D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaIsiri-Pozzodell'Eternità|r",
-			[51] = 1642986446,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
-		{
-			"{rt2}2", -- [1]
-			"Isiri-Pozzodell'Eternità", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Isiri-Pozzodell'Eternità", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1576, -- [11]
-			"Player-1309-0C20373D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaIsiri-Pozzodell'Eternità|r",
-			[51] = 1642986447,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
-		{
-			"{rt2}1", -- [1]
-			"Isiri-Pozzodell'Eternità", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Isiri-Pozzodell'Eternità", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1577, -- [11]
-			"Player-1309-0C20373D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaIsiri-Pozzodell'Eternità|r",
-			[51] = 1642986448,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
-		{
-			"Scythe", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Scótch-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1579, -- [11]
-			"Player-1403-0A1DA202", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986448,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
-		{
-			"3", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Scótch-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1581, -- [11]
-			"Player-1403-0A1DA202", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986451,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
-		{
-			"2", -- [1]
-			"Scótch-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Scótch-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1582, -- [11]
-			"Player-1403-0A1DA202", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cScótch-Draenor|r",
-			[51] = 1642986452,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
-		{
-			"Scythe (6) on Doihaveto", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1586, -- [11]
-			"Player-1596-0DD25654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986472,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
-		{
-			"3", -- [1]
-			"Doihaveto-Ghostlands", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Doihaveto-Ghostlands", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1589, -- [11]
-			"Player-1596-0DD25654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986475,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
-		{
-			"{rt2}Chains 2", -- [1]
-			"Drcharacter-Turalyon", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Drcharacter-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1591, -- [11]
-			"Player-1402-0A1D855D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Drcharacter-Turalyon|r",
-			[51] = 1642986494,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
-		{
-			"{rt1}Chains 1", -- [1]
-			"Kweensham-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kweensham-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1592, -- [11]
-			"Player-1403-0A1CC92F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcKweensham-Draenor|r",
-			[51] = 1642986494,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
-		{
-			"{rt2}2", -- [1]
-			"Drcharacter-Turalyon", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Drcharacter-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1595, -- [11]
-			"Player-1402-0A1D855D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Drcharacter-Turalyon|r",
-			[51] = 1642986495,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:15123:Player-1596-0F2755E9:1:1:24:22:4294967295:4294967295:4294967295:4294967295|h[The Dark Bastille]|h|r!", -- [1]
+			"Wicked Rush on Onionboi", -- [1]
 			"Onionboi-Ghostlands", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Onionboi-Ghostlands", -- [5]
 			"", -- [6]
@@ -2125,7 +1421,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1598, -- [11]
+			256, -- [11]
 			"Player-1596-0F2755E9", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2133,9 +1429,515 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Onionboi|r",
-			[51] = 1642986496,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [96]
+			[51] = 1643423909,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [64]
+		{
+			"Wicked Rush on Kurinomo", -- [1]
+			"Kurinomo-Deathwing", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kurinomo-Deathwing", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			257, -- [11]
+			"Player-1596-0F260066", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcKurinomo-Deathwing|r",
+			[51] = 1643423909,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [65]
+		{
+			"Wicked Rush on Onionboi", -- [1]
+			"Onionboi-Ghostlands", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Onionboi-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			260, -- [11]
+			"Player-1596-0F2755E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643423924,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [66]
+		{
+			"Wicked Rush on Doihaveto", -- [1]
+			"Doihaveto-Ghostlands", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Doihaveto-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			261, -- [11]
+			"Player-1596-0DD25654", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Doihaveto|r",
+			[51] = 1643423924,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [67]
+		{
+			"Wicked Rush on Onionboi", -- [1]
+			"Onionboi-Ghostlands", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Onionboi-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			265, -- [11]
+			"Player-1596-0F2755E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643423945,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [68]
+		{
+			"Wicked Rush on Onionboi", -- [1]
+			"Onionboi-Ghostlands", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Onionboi-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			269, -- [11]
+			"Player-1596-0F2755E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643423961,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [69]
+		{
+			"Wicked Rush on Onionboi", -- [1]
+			"Onionboi-Ghostlands", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Onionboi-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			274, -- [11]
+			"Player-1596-0F2755E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643423984,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [70]
+		{
+			"Onionboi cast |cff71d5ff|Hspell:20484:0|h[Renacer]|h|r -> Doihaveto", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			278, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643423994,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [71]
+		{
+			"Wicked Rush on Onionboi", -- [1]
+			"Onionboi-Ghostlands", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Onionboi-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			281, -- [11]
+			"Player-1596-0F2755E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643424001,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [72]
+		{
+			"Wicked Rush on Kurinomo", -- [1]
+			"Kurinomo-Deathwing", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kurinomo-Deathwing", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			285, -- [11]
+			"Player-1596-0F260066", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcKurinomo-Deathwing|r",
+			[51] = 1643424022,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [73]
+		{
+			"Wicked Rush on Doihaveto", -- [1]
+			"Doihaveto-Ghostlands", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Doihaveto-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			286, -- [11]
+			"Player-1596-0DD25654", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Doihaveto|r",
+			[51] = 1643424022,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [74]
+		{
+			"Furin cast |cff71d5ff|Hspell:20484:0|h[Renacer]|h|r -> Doihaveto", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			288, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643424029,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [75]
+		{
+			"Wicked Rush on Onionboi", -- [1]
+			"Onionboi-Ghostlands", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Onionboi-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			291, -- [11]
+			"Player-1596-0F2755E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643424037,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [76]
+		{
+			"¡Carga perversa en Holodan!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			292, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643424037,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [77]
+		{
+			"Carga perversa en Holodan", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			293, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643424037,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [78]
+		{
+			"gg", -- [1]
+			"Furin-Darksorrow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Furin-Darksorrow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			301, -- [11]
+			"Player-3657-0A89774B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Furin-Darksorrow|r",
+			[51] = 1643424043,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [79]
+		{
+			"ty", -- [1]
+			"Kurinomo-Deathwing", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kurinomo-Deathwing", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			302, -- [11]
+			"Player-1596-0F260066", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcKurinomo-Deathwing|r",
+			[51] = 1643424043,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [80]
+		{
+			"Thanks all!", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			304, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643424044,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [81]
+		{
+			"some one need ?", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			312, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643424066,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [82]
+		{
+			"Onionboi cast |cff71d5ff|Hspell:20484:0|h[Renacer]|h|r -> Doihaveto", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			313, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643424067,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [83]
+		{
+			"|cffa335ee|Hitem:178851::::::::60:577::33:5:7616:7359:6652:1547:6646:1:28:1279:::::|h[Capa de manifestaciones envolventes]|h|r", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			314, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643424068,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [84]
+		{
+			"nah", -- [1]
+			"Kurinomo-Deathwing", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kurinomo-Deathwing", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			318, -- [11]
+			"Player-1596-0F260066", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcKurinomo-Deathwing|r",
+			[51] = 1643424080,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [85]
+		{
+			"need wrist?", -- [1]
+			"Furin-Darksorrow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Furin-Darksorrow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			319, -- [11]
+			"Player-3657-0A89774B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Furin-Darksorrow|r",
+			[51] = 1643424080,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [86]
+		{
+			"can't trade", -- [1]
+			"Doihaveto-Ghostlands", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Doihaveto-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			320, -- [11]
+			"Player-1596-0DD25654", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Doihaveto|r",
+			[51] = 1643424091,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [87]
 		{
 			"tyty", -- [1]
 			"Doihaveto-Ghostlands", -- [2]
@@ -2147,7 +1949,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1629, -- [11]
+			321, -- [11]
 			"Player-1596-0DD25654", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2155,35 +1957,101 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe97Doihaveto|r",
-			[51] = 1642986510,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [97]
+			[51] = 1643424093,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [88]
 		{
-			"|cffa335ee|Hitem:186375::::::::60:264::4:5:7186:6652:7574:1459:6646:1:28:2107:::::|h[Miniature Breaking Wheel]|h|r roll", -- [1]
-			"Kweensham-Draenor", -- [2]
+			"okok", -- [1]
+			"Furin-Darksorrow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kweensham-Draenor", -- [5]
+			"Furin-Darksorrow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1637, -- [11]
-			"Player-1403-0A1CC92F", -- [12]
+			322, -- [11]
+			"Player-3657-0A89774B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcKweensham-Draenor|r",
-			[51] = 1642986520,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [98]
+			[52] = "|cfffe7b09Furin-Darksorrow|r",
+			[51] = 1643424096,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [89]
 		{
-			"|cff0070dd|Hitem:116666::::::::60:105:::::::::|h[Blacksteel Battleboar]|h|rA", -- [1]
+			"thnx for run", -- [1]
+			"Furin-Darksorrow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Furin-Darksorrow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			323, -- [11]
+			"Player-3657-0A89774B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Furin-Darksorrow|r",
+			[51] = 1643424098,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [90]
+		{
+			"ty to invi guys", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			326, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643424107,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [91]
+		{
+			"gl", -- [1]
+			"Holodan-Sanguino", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holodan-Sanguino", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			327, -- [11]
+			"Player-1379-0847D0B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Holodan-Sanguino|r",
+			[51] = 1643424108,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [92]
+		{
+			"nty", -- [1]
 			"Onionboi-Ghostlands", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
 			"Onionboi-Ghostlands", -- [5]
 			"", -- [6]
@@ -2191,7 +2059,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			98, -- [11]
+			330, -- [11]
 			"Player-1596-0F2755E9", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2199,8 +2067,140 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Onionboi|r",
-			[51] = 1643005269,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1643424115,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [93]
+		{
+			"!keys", -- [1]
+			"Onionboi-Ghostlands", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Onionboi-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			338, -- [11]
+			"Player-1596-0F2755E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643424259,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [94]
+		{
+			"|cffa335ee|Hkeystone:180653:378:13:10:6:13:128|h[Keystone: Halls of Atonement (13)]|h|r", -- [1]
+			"Onionboi-Ghostlands", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Onionboi-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			339, -- [11]
+			"Player-1596-0F2755E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643424259,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [95]
+		{
+			"|cffa335ee|Hkeystone:180653:376:12:10:6:13:128|h[Keystone: The Necrotic Wake (12)]|h|r", -- [1]
+			"Doihaveto-Ghostlands", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Doihaveto-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			340, -- [11]
+			"Player-1596-0DD25654", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Doihaveto|r",
+			[51] = 1643424259,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [96]
+		{
+			"!keys", -- [1]
+			"Onionboi-Ghostlands", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Onionboi-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			341, -- [11]
+			"Player-1596-0F2755E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643424265,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [97]
+		{
+			"!keys", -- [1]
+			"Onionboi-Ghostlands", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Onionboi-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			342, -- [11]
+			"Player-1596-0F2755E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Onionboi|r",
+			[51] = 1643424277,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [98]
+		{
+			"|cffa335ee|Hkeystone:180653:377:15:10:6:13:128|h[Keystone: De Other Side (15)]|h|r", -- [1]
+			"Kurinomo-Deathwing", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kurinomo-Deathwing", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			343, -- [11]
+			"Player-1596-0F260066", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcKurinomo-Deathwing|r",
+			[51] = 1643424278,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [99]
 	},
 }

@@ -6,7 +6,7 @@ Postal3DB = {
 				"Asbotehelf|Draenor|Alliance|55|DRUID", -- [1]
 				"Asbotehg|Ghostlands|Horde|50|MAGE", -- [2]
 				"Heimerdinger|Ghostlands|Horde|27|DEATHKNIGHT", -- [3]
-				"Háoma|Ghostlands|Horde|50|PRIEST", -- [4]
+				"Háoma|Ghostlands|Horde|53|PRIEST", -- [4]
 				"Onionboi|Draenor|Horde|60|DRUID", -- [5]
 				"Onionboi|Ghostlands|Horde|60|DRUID", -- [6]
 				"Onionmonk|Draenor|Horde|13|MONK", -- [7]
